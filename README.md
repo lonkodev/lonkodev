@@ -93,7 +93,8 @@ Me motiva transformar ideas en productos útiles, escalables y con un diseño li
 
 - 🌐 [Portafolio](https://lonkodev.cl)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lonkodev/)  
-- 📸 [Instagram Dev](https://www.instagram.com/lonkodev/)  
+- 📸 [Instagram Dev](https://www.instagram.com/lonkodev/)
+- 📹 [TikTok Dev](https://www.tiktok.com/@lonkodev)  
 
 ---
 
