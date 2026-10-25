@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="262" viewBox="0 0 860 262" role="img" aria-label="Estadísticas de GitHub de LonkoDev">
+  <defs>
+    <radialGradient id="g1" cx="0" cy="0" r="1"><stop offset="0" stop-color="#F1882D" stop-opacity=".35"/><stop offset="1" stop-color="#F1882D" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="1" cy="1" r="1"><stop offset="0" stop-color="#F1882D" stop-opacity=".22"/><stop offset="1" stop-color="#F1882D" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="860" height="262" rx="14"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace; }
+    .t  { fill: #F1882D; font-size: 17px; font-weight: 700; }
+    .s  { fill: #8A8A8A; font-size: 12px; }
+    .v  { fill: #FFFFFF; font-size: 26px; font-weight: 700; }
+    .l  { fill: #8A8A8A; font-size: 12px; }
+    .p  { fill: #F1882D; font-size: 12px; font-weight: 700; }
+    .f  { opacity: 0; animation: in .6s ease forwards; }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="860" height="262" fill="#0D0D0D"/>
+    <circle cx="0" cy="0" r="236" fill="url(#g1)"/>
+    <circle cx="860" cy="262" r="236" fill="url(#g2)"/>
+  </g>
+  <rect x=".5" y=".5" width="859" height="261" rx="14" fill="none" stroke="#1A1A1A"/>
+  <text x="32" y="44" class="t">&gt; git log --stats</text>
+  <text x="32" y="66" class="s">Giovanni Caceres · @lonkodev · en GitHub desde 2015 · incluye repos privados</text>
+  <text x="828" y="44" class="p" text-anchor="end">⭐ 5</text>
+  <g class="f" style="animation-delay:0.15s"><rect x="30" y="96" width="3" height="46" fill="#F1882D" rx="1.5"/><text x="44" y="122" class="v">2.997</text><text x="44" y="140" class="l">Contribuciones totales</text></g>
+  <g class="f" style="animation-delay:0.23s"><rect x="235" y="96" width="3" height="46" fill="#F1882D" rx="1.5"/><text x="249" y="122" class="v">988</text><text x="249" y="140" class="l">Contribuciones · año</text></g>
+  <g class="f" style="animation-delay:0.31s"><rect x="440" y="96" width="3" height="46" fill="#F1882D" rx="1.5"/><text x="454" y="122" class="v">925</text><text x="454" y="140" class="l">Commits · año</text></g>
+  <g class="f" style="animation-delay:0.39s"><rect x="645" y="96" width="3" height="46" fill="#F1882D" rx="1.5"/><text x="659" y="122" class="v">126</text><text x="659" y="140" class="l">Repos propios</text></g>
+  <g class="f" style="animation-delay:0.47s"><rect x="30" y="170" width="3" height="46" fill="#F1882D" rx="1.5"/><text x="44" y="196" class="v">117</text><text x="44" y="214" class="l">Pull requests</text></g>
+  <g class="f" style="animation-delay:0.55s"><rect x="235" y="170" width="3" height="46" fill="#F1882D" rx="1.5"/><text x="249" y="196" class="v">45</text><text x="249" y="214" class="l">Issues</text></g>
+  <g class="f" style="animation-delay:0.63s"><rect x="440" y="170" width="3" height="46" fill="#F1882D" rx="1.5"/><text x="454" y="196" class="v">1 días</text><text x="454" y="214" class="l">🔥 Racha actual</text></g>
+  <g class="f" style="animation-delay:0.71s"><rect x="645" y="170" width="3" height="46" fill="#F1882D" rx="1.5"/><text x="659" y="196" class="v">11 días</text><text x="659" y="214" class="l">Racha más larga</text></g>
+  <text x="828" y="246" class="s" text-anchor="end">@lonkodev · lonkodev.cl</text>
+</svg>

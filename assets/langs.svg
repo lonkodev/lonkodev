@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="218" viewBox="0 0 860 218" role="img" aria-label="Lenguajes más usados">
+  <defs>
+    <radialGradient id="g1" cx="0" cy="0" r="1"><stop offset="0" stop-color="#F1882D" stop-opacity=".35"/><stop offset="1" stop-color="#F1882D" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="1" cy="1" r="1"><stop offset="0" stop-color="#F1882D" stop-opacity=".22"/><stop offset="1" stop-color="#F1882D" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="860" height="218" rx="14"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace; }
+    .t  { fill: #F1882D; font-size: 17px; font-weight: 700; }
+    .s  { fill: #8A8A8A; font-size: 12px; }
+    .v  { fill: #FFFFFF; font-size: 26px; font-weight: 700; }
+    .l  { fill: #8A8A8A; font-size: 12px; }
+    .p  { fill: #F1882D; font-size: 12px; font-weight: 700; }
+    .f  { opacity: 0; animation: in .6s ease forwards; }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="860" height="218" fill="#0D0D0D"/>
+    <circle cx="0" cy="0" r="196" fill="url(#g1)"/>
+    <circle cx="860" cy="218" r="196" fill="url(#g2)"/>
+  </g>
+  <rect x=".5" y=".5" width="859" height="217" rx="14" fill="none" stroke="#1A1A1A"/>
+  <text x="32" y="44" class="t">&gt; cat lenguajes.log</text>
+  <text x="32" y="66" class="s">Por tamaño de código en repos propios · incluye privados</text>
+  <clipPath id="b"><rect x="32" y="88" width="796" height="12" rx="6"/></clipPath>
+  <g clip-path="url(#b)" class="f" style="animation-delay:.15s"><rect x="32.00" y="88" width="206.38" height="12" fill="#f1e05a"/><rect x="238.38" y="88" width="203.91" height="12" fill="#4F5D95"/><rect x="442.28" y="88" width="183.65" height="12" fill="#e34c26"/><rect x="625.93" y="88" width="95.53" height="12" fill="#f7523f"/><rect x="721.46" y="88" width="46.27" height="12" fill="#663399"/><rect x="767.73" y="88" width="40.09" height="12" fill="#41b883"/><rect x="807.81" y="88" width="20.19" height="12" fill="#444444"/></g>
+  <g class="f" style="animation-delay:0.30s"><circle cx="37" cy="130" r="5" fill="#f1e05a"/><text x="50" y="134" fill="#FFFFFF" font-size="13">JavaScript</text><text x="262" y="134" class="l" text-anchor="end">25.9%</text></g>
+  <g class="f" style="animation-delay:0.37s"><circle cx="307" cy="130" r="5" fill="#4F5D95"/><text x="320" y="134" fill="#FFFFFF" font-size="13">PHP</text><text x="532" y="134" class="l" text-anchor="end">25.6%</text></g>
+  <g class="f" style="animation-delay:0.44s"><circle cx="577" cy="130" r="5" fill="#e34c26"/><text x="590" y="134" fill="#FFFFFF" font-size="13">HTML</text><text x="802" y="134" class="l" text-anchor="end">23.1%</text></g>
+  <g class="f" style="animation-delay:0.51s"><circle cx="37" cy="160" r="5" fill="#f7523f"/><text x="50" y="164" fill="#FFFFFF" font-size="13">Blade</text><text x="262" y="164" class="l" text-anchor="end">12.0%</text></g>
+  <g class="f" style="animation-delay:0.58s"><circle cx="307" cy="160" r="5" fill="#663399"/><text x="320" y="164" fill="#FFFFFF" font-size="13">CSS</text><text x="532" y="164" class="l" text-anchor="end">5.8%</text></g>
+  <g class="f" style="animation-delay:0.65s"><circle cx="577" cy="160" r="5" fill="#41b883"/><text x="590" y="164" fill="#FFFFFF" font-size="13">Vue</text><text x="802" y="164" class="l" text-anchor="end">5.0%</text></g>
+  <g class="f" style="animation-delay:0.72s"><circle cx="37" cy="190" r="5" fill="#444444"/><text x="50" y="194" fill="#FFFFFF" font-size="13">Otros</text><text x="262" y="194" class="l" text-anchor="end">2.5%</text></g>
+</svg>
