@@ -50,16 +50,42 @@ class LonkoDev
 
 ## `> ls ./proyectos --en-produccion`
 
-| | Proyecto | Qué hace | Stack |
-|:-:|---|---|---|
-| 📱 | **App Doñihue** | App municipal publicada en Google Play | Ionic · React · Firebase · Capacitor |
-| 🏛️ | **Web Municipal 2.0** | Portal institucional rehecho desde cero, rápido y accesible | Vue · TypeScript · Tailwind |
-| 📊 | **Dashboard SIMCE** | Visualización de resultados SIMCE de los colegios de la comuna | Vue · Firebase |
-| 🛰️ | **Heimdal** | Monitoreo de uptime y estado de servicios | Laravel 11 · Vue 3 · Inertia |
-| 🤖 | **Bot WhatsApp Salud** | Recordatorio y confirmación de citas médicas | Node · API WhatsApp |
-| 🚌 | **RUNE** | Sistema de cotizaciones para empresa de buses | Laravel · MySQL |
+### 🏛️ Gobierno local
 
-> 🔒 La mayoría son sistemas institucionales en repos privados. Lo que se puede mostrar, está acá abajo 👇
+| | Proyecto | De qué se trata | Stack |
+|:-:|---|---|---|
+| 📱 | **Doñihue Conectado** | App móvil oficial para que los vecinos se informen y hagan trámites | Ionic · React · TypeScript · Firebase · Capacitor |
+| 🌐 | **Web Municipal 2.0** | Sitio institucional rehecho desde cero, rápido y accesible | Laravel 13 · Vue · Tailwind |
+| 🛡️ | **Odin** | Portal central de accesos: un login y permisos para todas las apps | Laravel 13 · Login Microsoft · Tailwind |
+| 📨 | **JARL** | Solicitudes y asignación de tareas para el equipo de comunicaciones | Laravel 12 · Login Microsoft · Tailwind · Alpine.js |
+| 🤝 | **RUNA** | Registro unificado de ayudas sociales, adiós planillas sueltas | Laravel 13 · Tailwind |
+| 🗂️ | **SIGD** | Gobernanza de datos: qué datos hay, dónde viven y quién responde | Laravel 13 · Vue · Inertia · Login Microsoft · MySQL |
+| 📋 | **coreCPAT** | Caracterización de procesos internos y reportería | Laravel 13 · Tailwind |
+| ⚙️ | **Asgard** | Panel de administración que alimenta la app y la web | Vue · TypeScript · Firebase |
+| 💬 | **Heimdal** | Plataforma para crear y administrar chatbots de atención ciudadana | Laravel 13 · Vue · Inertia · Login Microsoft · MySQL |
+| 🌈 | **Biofrost** | Monitoreo de disponibilidad de los servicios web | Laravel 12 · Vue · Inertia · Tailwind |
+| 🎭 | **Astrid** | Reportes mensuales de talleres culturales y deportivos | Laravel 13 · Tailwind · Alpine.js · PDF |
+| 🎓 | **Becas** | Postulación y seguimiento de becas en línea | Laravel 12 · Tailwind · MySQL |
+| 🦉 | **Munin** | Anonimiza PDFs en el navegador, sin subir el archivo a ningún lado | JavaScript · pdf-lib · PDF.js |
+| 📊 | **Dashboard SIMCE** | Resultados educativos de la comuna en gráficos simples | Vue · Firebase |
+
+### 🍎 Educación
+
+| | Proyecto | De qué se trata | Stack |
+|:-:|---|---|---|
+| 📝 | **Skald** | Notas, asistencia y décimas para docentes, sin Excel | Laravel 11 · Vue · Inertia · Tailwind |
+| 🏫 | **Matrículas República** | Proceso de matrícula escolar 100% en línea | Laravel 13 · Login Microsoft · Tailwind |
+| 🎮 | **DEVDEX** | Demo para alumnos: de local a producción usando agentes de IA | Vue · PHP · PokéAPI |
+
+### 💼 Freelance
+
+| | Proyecto | De qué se trata | Stack |
+|:-:|---|---|---|
+| 🥋 | **Taebek System** | Sitio, inscripciones y panel de gestión para una academia deportiva | Laravel 12 · Tailwind · Alpine.js |
+| 🚌 | **RUNE** | Cotizador para una empresa de transporte | Laravel · MySQL |
+| 🧾 | **Facturas** | Registro y seguimiento de facturas | Laravel 13 · Tailwind · SQLite |
+
+> 🔒 Casi todos son sistemas en producción con repos privados. Si quieres saber más de alguno, [escríbeme](https://lonkodev.cl).
 
 ---
 
