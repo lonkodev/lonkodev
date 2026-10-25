@@ -203,6 +203,10 @@ def fmt(n: int) -> str:
     return f"{n:,}".replace(",", ".")
 
 
+def dias(n: int) -> str:
+    return f"{fmt(n)} día" if n == 1 else f"{fmt(n)} días"
+
+
 def frame(w: int, h: int, title: str, inner: str) -> str:
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{escape(title)}">
   <defs>
@@ -240,8 +244,8 @@ def stats_svg(d: dict) -> str:
         ("Repos propios", fmt(d["repos"])),
         ("Pull requests", fmt(d["prs"])),
         ("Issues", fmt(d["issues"])),
-        ("🔥 Racha actual", f"{fmt(d['streak'])} días"),
-        ("Racha más larga", f"{fmt(d['longest'])} días"),
+        ("🔥 Racha actual", dias(d["streak"])),
+        ("Racha más larga", dias(d["longest"])),
     ]
     cols, x0, y0, cw, rh = 4, 32, 120, 205, 74
     cells = []
