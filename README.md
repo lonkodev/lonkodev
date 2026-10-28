@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Refactor%3A+el+arte+de+cambiar+todo+sin+cambiar+nada;%3E+Un+patr%C3%B3n+de+dise%C3%B1o+a+tiempo+ahorra+cien+parches;%3E+Funciona+en+mi+m%C3%A1quina+%F0%9F%A4%B7;%3E+Nombra+bien+tus+variables%2C+tu+yo+del+futuro+te+lo+agradece" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Un+deploy+un+viernes+es+valent%C3%ADa;%3E+Automatizo+cosas+para+no+hacerlas+dos+veces;%3E+Docker%3A+ahora+funciona+en+todas+las+m%C3%A1quinas;%3E+Si+no+hay+backup%2C+no+existe" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
