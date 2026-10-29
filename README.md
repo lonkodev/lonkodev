@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Un+deploy+un+viernes+es+valent%C3%ADa;%3E+Automatizo+cosas+para+no+hacerlas+dos+veces;%3E+Docker%3A+ahora+funciona+en+todas+las+m%C3%A1quinas;%3E+Si+no+hay+backup%2C+no+existe" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+rm+-rf+node_modules+%26%26+npm+install.+Fe.;%3E+Leer+la+documentaci%C3%B3n+tambi%C3%A9n+es+programar;%3E+Las+APIs+tambi%C3%A9n+tienen+sentimientos;%3E+Hoy+ense%C3%B1o+lo+que+ayer+romp%C3%AD" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
