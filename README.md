@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+SQL+%3E+Excel+con+40+pesta%C3%B1as;%3E+Funciona+en+mi+m%C3%A1quina+%F0%9F%A4%B7;%3E+Escalar+empieza+por+un+buen+%C3%ADndice;%3E+Tests%3A+porque+la+fe+no+es+una+estrategia" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Refactor%3A+el+arte+de+cambiar+todo+sin+cambiar+nada;%3E+Cada+error+en+rojo+es+una+clase+gratis;%3E+Hoy+ense%C3%B1o+lo+que+ayer+romp%C3%AD;%3E+La+seguridad+no+es+un+feature%2C+es+la+base" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
