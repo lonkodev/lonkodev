@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+La+nube+es+el+computador+de+otro;%3E+Un+README+bueno+vale+m%C3%A1s+que+mil+reuniones;%3E+Las+APIs+tambi%C3%A9n+tienen+sentimientos;%3E+99+bugs+en+el+c%C3%B3digo...+arreglas+uno...+127+bugs" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+console.log%28%29+sigue+siendo+mi+debugger+favorito;%3E+Los+bugs+no+se+arreglan%2C+se+migran;%3E+Programar+es+resolver+problemas%2C+no+escribir+c%C3%B3digo;%3E+404%3A+motivaci%C3%B3n+no+encontrada+%28pero+igual+pusheo%29" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
