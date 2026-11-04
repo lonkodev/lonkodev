@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Del+aula+a+producci%C3%B3n+%F0%9F%87%A8%F0%9F%87%B1;%3E+Menos+reuniones%2C+m%C3%A1s+commits;%3E+El+caf%C3%A9+es+una+dependencia+de+producci%C3%B3n+%E2%98%95;%3E+La+seguridad+no+es+un+feature%2C+es+la+base" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+99+bugs+en+el+c%C3%B3digo...+arreglas+uno...+127+bugs;%3E+Nombra+bien+tus+variables%2C+tu+yo+del+futuro+te+lo+agradece;%3E+Primero+que+funcione%2C+despu%C3%A9s+que+sea+bonito;%3E+La+seguridad+no+es+un+feature%2C+es+la+base" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
