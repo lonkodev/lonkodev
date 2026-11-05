@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Automatizo+cosas+para+no+hacerlas+dos+veces;%3E+Nombra+bien+tus+variables%2C+tu+yo+del+futuro+te+lo+agradece;%3E+La+seguridad+no+es+un+feature%2C+es+la+base;%3E+404%3A+motivaci%C3%B3n+no+encontrada+%28pero+igual+pusheo%29" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Leer+la+documentaci%C3%B3n+tambi%C3%A9n+es+programar;%3E+El+mejor+c%C3%B3digo+es+el+que+no+escribes;%3E+Nombra+bien+tus+variables%2C+tu+yo+del+futuro+te+lo+agradece;%3E+Un+deploy+un+viernes+es+valent%C3%ADa" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
