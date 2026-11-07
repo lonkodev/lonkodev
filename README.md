@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+El+caf%C3%A9+es+una+dependencia+de+producci%C3%B3n+%E2%98%95;%3E+git+commit+-m+%27arreglado+%28creo%29%27;%3E+Un+patr%C3%B3n+de+dise%C3%B1o+a+tiempo+ahorra+cien+parches;%3E+SQL+%3E+Excel+con+40+pesta%C3%B1as" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Refactor%3A+el+arte+de+cambiar+todo+sin+cambiar+nada;%3E+Escalar+empieza+por+un+buen+%C3%ADndice;%3E+Menos+reuniones%2C+m%C3%A1s+commits;%3E+git+commit+-m+%27arreglado+%28creo%29%27" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
