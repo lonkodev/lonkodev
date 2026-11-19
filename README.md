@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Si+no+hay+backup%2C+no+existe;%3E+La+IA+escribe%2C+t%C3%BA+entiendes.+Esa+es+la+pega.;%3E+El+caf%C3%A9+es+una+dependencia+de+producci%C3%B3n+%E2%98%95;%3E+git+commit+-m+%27arreglado+%28creo%29%27" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Los+bugs+no+se+arreglan%2C+se+migran;%3E+404%3A+motivaci%C3%B3n+no+encontrada+%28pero+igual+pusheo%29;%3E+Docker%3A+ahora+funciona+en+todas+las+m%C3%A1quinas;%3E+git+commit+-m+%27arreglado+%28creo%29%27" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
