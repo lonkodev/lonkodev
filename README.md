@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Las+APIs+tambi%C3%A9n+tienen+sentimientos;%3E+console.log%28%29+sigue+siendo+mi+debugger+favorito;%3E+Primero+que+funcione%2C+despu%C3%A9s+que+sea+bonito;%3E+99+bugs+en+el+c%C3%B3digo...+arreglas+uno...+127+bugs" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Del+aula+a+producci%C3%B3n+%F0%9F%87%A8%F0%9F%87%B1;%3E+Funciona+en+mi+m%C3%A1quina+%F0%9F%A4%B7;%3E+99+bugs+en+el+c%C3%B3digo...+arreglas+uno...+127+bugs;%3E+Escalar+empieza+por+un+buen+%C3%ADndice" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
