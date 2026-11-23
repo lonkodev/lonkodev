@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Si+se+repite+3+veces%2C+se+automatiza;%3E+Tests%3A+porque+la+fe+no+es+una+estrategia;%3E+Menos+reuniones%2C+m%C3%A1s+commits;%3E+rm+-rf+node_modules+%26%26+npm+install.+Fe." alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+git+commit+-m+%27arreglado+%28creo%29%27;%3E+Tests%3A+porque+la+fe+no+es+una+estrategia;%3E+console.log%28%29+sigue+siendo+mi+debugger+favorito;%3E+Un+README+bueno+vale+m%C3%A1s+que+mil+reuniones" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
