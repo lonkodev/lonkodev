@@ -6,7 +6,7 @@
 <!-- typing:start -->
 <p align="center">
   <a href="https://lonkodev.cl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+El+mejor+c%C3%B3digo+es+el+que+no+escribes;%3E+Refactor%3A+el+arte+de+cambiar+todo+sin+cambiar+nada;%3E+Del+aula+a+producci%C3%B3n+%F0%9F%87%A8%F0%9F%87%B1;%3E+git+commit+-m+%27arreglado+%28creo%29%27" alt="Frases tech de LonkoDev" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F1882D&center=true&vCenter=true&width=720&lines=%3E+Refactor%3A+el+arte+de+cambiar+todo+sin+cambiar+nada;%3E+El+caf%C3%A9+es+una+dependencia+de+producci%C3%B3n+%E2%98%95;%3E+El+mejor+c%C3%B3digo+es+el+que+no+escribes;%3E+Ctrl%2BZ%3A+el+mejor+amigo+del+dev" alt="Frases tech de LonkoDev" />
   </a>
 </p>
 <!-- typing:end -->
